@@ -1,4 +1,5 @@
-package com.surya;
+//1.	Reverse a number using buildIn method
+package com.surya.reverse;
 
 public class Reverse_a_string_UsingInbuit_method {
 
@@ -56,5 +57,25 @@ System.out.println(s1);
 Prints:
 
 upiL
+
+
+				//Or//
+			
+				
+package com.surya;
+
+public class Reverse_a_string_UsingInbuit_method {
+
+    public static void main(String[] args) {
+
+        String s = "Lipu";
+
+        String reversed = new StringBuilder(s).reverse().toString();
+
+        System.out.println(reversed);
+    }
+}
+
+
 
 */

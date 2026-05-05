@@ -1,5 +1,5 @@
 //1.	Reverse a String without using inbuilt methods
-package com.surya;
+package com.surya.reverse;
 
 public class Reverse_a_string {
 
