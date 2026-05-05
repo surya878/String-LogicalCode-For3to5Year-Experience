@@ -40,6 +40,9 @@ s.length() = 5
 
 for (int i = s.length() - 1; i >= 0; i--)
 
+==> for (int i = 5-1 ; i>=0; i--)
+==> for (int i = 4 ; 4 >=0 ; i--)
+
 
 Actual values:
 for (int i = 4; i >= 0; i--)
