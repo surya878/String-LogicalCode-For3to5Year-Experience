@@ -9,9 +9,21 @@ public class Reverse_a_string_UsingInbuit_method {
 		
 		StringBuilder sb=new StringBuilder(s);
 			
-		StringBuilder s1=sb.reverse();
+		StringBuilder ss=sb.reverse();
 
-		System.out.println(s1);
+		System.out.println(ss);
+		
+		System.out.println();
+		
+		//Reverse Number
+		
+		String s2="1234";
+		
+		StringBuilder sb1=new StringBuilder(s2);
+			
+		StringBuilder ss2=sb1.reverse();
+
+		System.out.println(ss2);
 	}
 
 }
